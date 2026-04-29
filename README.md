@@ -75,11 +75,4 @@ Please download it from Kaggle and place it in the `data/` folder.
 - `baseline_features.npz`: preprocessed feature matrix used for baseline machine learning models  
   (contains input features `X` and labels `y`)
 
----
 
-## ▶️ Usage
-
-### Run the main deep learning pipeline:
-
-```bash
-jupyter notebook notebooks/Student_Performance_Prediction_Pipeline.ipynb
