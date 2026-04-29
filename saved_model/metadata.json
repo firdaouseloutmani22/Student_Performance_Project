@@ -1,0 +1,26 @@
+{
+    "model_architecture": "DeepResNet",
+    "input_dim": 91,
+    "num_classes": 4,
+    "dropout_rate": 0.5,
+    "emb_dim": 64,
+    "split": "70/15/15",
+    "seed": 42,
+    "label_map": {
+        "Withdrawn": 0,
+        "Fail": 1,
+        "Pass": 2,
+        "Distinction": 3
+    },
+    "continuous_cols": [
+        "num_of_prev_attempts",
+        "studied_credits",
+        "credits_per_attempt",
+        "is_repeat",
+        "click_mean",
+        "click_std",
+        "click_max",
+        "click_sum"
+    ],
+    "best_val_loss": 0.045391
+}
