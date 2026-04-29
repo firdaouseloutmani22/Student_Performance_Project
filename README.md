@@ -1,4 +1,4 @@
-# 🎓 Student Academic Outcome Prediction using Hybrid Deep Learning
+# 🎓 A Hybrid Autoencoder–Deep Residual Network for Student Academic Outcome Prediction in Online Learning Environments
 
 This project presents a hybrid deep learning approach for predicting student academic outcomes in online learning environments.
 
