@@ -47,6 +47,7 @@ The model significantly outperforms:
 ---
 
 ## 📂 Project Structure
+```
 ├── notebooks/
 │ ├── Student_Performance_Prediction_Pipeline.ipynb
 │ └── Baseline_Models_Student_Performance.ipynb
@@ -55,7 +56,7 @@ The model significantly outperforms:
 ├── saved_model/
 ├── figures/
 ├── README.md
-
+```
 
 ---
 
